@@ -48,6 +48,30 @@
   background-image: url("http://plataformadelmayor.org/wp-content/uploads/2024/08/imagen4_2.jpg");
 }
 
+.textos {
+  color: beige;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 20px 40px;
+  transform: translate(-50%, -50%);
+  background-color: rgba(30, 60, 90, 0.5);
+  width: 80%;
+  height: auto;
+  text-align: center;
+}
+
+.textos h2 {
+  color: rgba(245, 245, 220, 0.961);
+}
+
+.separador {
+  margin: 20px auto;
+  height: 2px;
+  background-color: #d8d8d8;
+  width: 100px;
+}
+
 /* ***************************************************** */
 
 /* Animation */
